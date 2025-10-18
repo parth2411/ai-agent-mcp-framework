@@ -1,0 +1,1 @@
+It's possible to add new service to existing reservation.

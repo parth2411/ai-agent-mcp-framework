@@ -1,0 +1,26 @@
+[
+  {
+    "id": "R123",
+    "guest_name": "John Doe",
+    "room_type": "Deluxe",
+    "check_in_date": "2025-07-20",
+    "check_out_date": "2025-07-23",
+    "total_price": 500.0
+  },
+  {
+    "id": "R124",
+    "guest_name": "Jane Smith",
+    "room_type": "Suite",
+    "check_in_date": "2025-08-15",
+    "check_out_date": "2025-08-18",
+    "total_price": 750.0
+  },
+  {
+    "id": "R125",
+    "guest_name": "Bob Johnson",
+    "room_type": "Standard",
+    "check_in_date": "2025-09-10",
+    "check_out_date": "2025-09-12",
+    "total_price": 300.0
+  }
+] 

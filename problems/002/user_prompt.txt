@@ -1,0 +1,1 @@
+I'd like to make a hotel reservation for John Smith. He needs a deluxe room from January 15th, 2025 to January 18th, 2025. The total price should be $450.

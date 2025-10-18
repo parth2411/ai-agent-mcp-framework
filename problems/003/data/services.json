@@ -1,0 +1,18 @@
+[
+  {
+    "id": "S001",
+    "name": "Breakfast",
+    "description": "Continental breakfast buffet",
+    "price": 25.0,
+    "category": "dining",
+    "reservation_id": "R125"
+  },
+  {
+    "id": "S002",
+    "name": "Parking",
+    "description": "Daily parking in hotel garage",
+    "price": 15.0,
+    "category": "parking",
+    "reservation_id": "R125"
+  }
+]

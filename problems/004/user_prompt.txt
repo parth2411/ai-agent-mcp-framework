@@ -1,0 +1,24 @@
+We need to consolidate multiple reservations for Jane Smith.
+
+Current situation:
+- R123 (John Doe): July 20-23, 2025 - Includes Breakfast and Parking - CANCELLED
+- R124 (Jane Smith): August 15-18, 2025 - No services - KEEPING
+- R125 (Bob Johnson): September 10-12, 2025 - Includes Breakfast and Parking - CANCELLED
+
+Jane wants to:
+- Take over the date ranges from both cancelled reservations
+- Keep her existing August dates
+- Extend through Bob's checkout date (Sep 12)
+- Upgrade her room to Deluxe
+- Transfer Bob's services (Breakfast and Parking) to her reservation
+- Add a premium Spa Package service, but ONLY if her total stay exceeds 20 days
+
+Please:
+1. Cancel John's reservation (R123) and Bob's reservation (R125)
+2. Update Jane's reservation (R124) with room upgrade and extended dates
+3. Add the appropriate services from Bob's reservation
+4. Calculate Jane's total days of stay across all date ranges
+5. Add Spa Package ONLY if total days > 20
+6. Update total price to reflect the Deluxe room rate ($100/day) for the total stay
+
+Important: Don't duplicate services - Jane should only have ONE set of Breakfast and Parking.
